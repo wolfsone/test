@@ -1,6 +1,6 @@
 Privet
 Privet from branch1
 Privet Petya from branch2
-6666
+666
 Master update
 5555
